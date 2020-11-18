@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"name": "SimpleShooter",
+			"path": "."
+		},
+		{
+			"name": "UE4",
+			"path": "D:\\Games\\UE_4.25"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"files.associations": {
+			"tuple": "cpp"
+		}
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp"
+		]
+	}
+}
